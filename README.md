@@ -13,16 +13,6 @@ This is a **simple Django-based portfolio website** created by Adonis Jeswin. It
 
 ---
 
-## 🛡️ Security Note (Safe for GitHub)
-
-✅ This project is safe to upload to GitHub as long as you follow these:
-
-* **DO NOT** commit `.env` files or sensitive secrets (not used in this version)
-* **NO** database or user info included
-* Uses only local static files (no API keys or credentials)
-
----
-
 ## 🗂️ Project Structure
 
 ```
